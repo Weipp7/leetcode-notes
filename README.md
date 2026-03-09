@@ -22,3 +22,14 @@
 ## Notes
 
 See `notes/` for summarized patterns and templates.
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0027-remove-element](https://github.com/Weipp7/leetcode-notes/tree/main/0027-remove-element/) | undefined |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0027-remove-element](https://github.com/Weipp7/leetcode-notes/tree/main/0027-remove-element/) | undefined |
+<!---LeetCode Topics End-->
