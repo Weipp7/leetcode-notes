@@ -23,7 +23,7 @@ public:
         // for(int x:nums){
         //     cout << x;
         // }
-        cout << left << right << endl;
+        // cout << left << right << endl;
         return left;
     }
    
