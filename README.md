@@ -27,9 +27,11 @@ See `notes/` for summarized patterns and templates.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Weipp7/leetcode-notes/tree/main/0026-remove-duplicates-from-sorted-array/) | undefined |
 | [0027-remove-element](https://github.com/Weipp7/leetcode-notes/tree/main/0027-remove-element/) | undefined |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Weipp7/leetcode-notes/tree/main/0026-remove-duplicates-from-sorted-array/) | undefined |
 | [0027-remove-element](https://github.com/Weipp7/leetcode-notes/tree/main/0027-remove-element/) | undefined |
 <!---LeetCode Topics End-->
